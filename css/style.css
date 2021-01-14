@@ -1,0 +1,100 @@
+.logo img{
+    width:300px;
+}
+.half-nav{
+    margin-left: 420px;
+}
+.nav-bar{
+    font-weight: bold;
+}
+.heading{
+    background-color: #FFF9F4;
+}
+.title-img{
+    width:100%;
+}
+.first-section{
+    margin-top: 100px;
+}
+.main-title{
+    font-size: 63px;
+    font-weight: bold;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.title-1{
+    color:#FA804C;
+}
+.title-2{
+    color:#363958;
+}
+.card-border{
+    border:0;
+}
+.clasical-group{
+    margin-top: 100px;
+}
+.card-1{
+    width:96%;
+}
+.shoes-title{
+    color:#363958;
+    font-weight: 600;
+}
+.shoes-card-design{
+    background-color: #F1F1F1;
+    margin:12px;
+    border-radius: 13px;
+}
+.formal-group{
+    margin-top: 100px;
+}
+.section-footer{
+    color: #FA804C;
+    border: 0;
+    background-color: white;
+}
+.section-footer h3{
+    font-family: 'Poppins', sans-serif;
+}
+.button-color{
+    background-color: #3847CD;
+    color:white;
+    padding:10px;
+}
+.fourth-section{
+    margin-top: 100px;
+}
+.communicate-part{
+    width:100%;
+    margin-left:20px
+}
+.communicate-part img{
+    width:70px;
+    margin-left:20px;
+}
+.communicate-part{
+    margin: 15px;
+    padding:10px;
+    border-radius:15px;
+}
+.communicate-part h4{
+    color:#363958;
+    font-weight: 700;
+}
+.final-section{
+    margin-top: 100px;
+    background-color:#faded7;
+    color:white;
+    border-radius: 14px;
+}
+#icon img{
+    width:45px;
+    margin-left:45px;
+}
+@media (max-width:992px){
+    .half-nav{
+        margin-left: 350px;
+    }
+}
+
+
